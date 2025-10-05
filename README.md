@@ -127,8 +127,12 @@ Server runs at: **[http://localhost:4000](https://www.google.com/search?q=http:/
 
 -----
 
+## Render Deploy
+https://inventory-management-system-backend-api-1.onrender.com/
+
+-----
+
 ## 👩‍💻 Author
 
 Developed by **Sakshi Shinde**
 
-```
