@@ -1,10 +1,9 @@
 
-```
-# 📦 Inventory Management System (IMS) — Backend
+### 📦 Inventory Management System (IMS) — Backend
 
 This is a backend API built with **Node.js + Express + MongoDB** for managing users and products.
 It includes authentication, product CRUD operations, stock management, password reset via email, and **image storage using Cloudinary**.
-```
+
 ---
 
 ## 🛠 Tech Stack
