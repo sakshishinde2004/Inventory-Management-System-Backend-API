@@ -1,5 +1,5 @@
 
-### 📦 Inventory Management System (IMS) — Backend
+# 📦 Inventory Management System (IMS) — Backend
 
 This is a backend API built with **Node.js + Express + MongoDB** for managing users and products.
 It includes authentication, product CRUD operations, stock management, password reset via email, and **image storage using Cloudinary**.
@@ -50,10 +50,10 @@ IMS/
    git clone <repo-url>
    cd IMS/backend
    npm install
-````
+   ````
 
 2.  Create a `.env` file in `/backend` with variables for:
-
+      ```bash
       * `PORT`
       * `MONGO_URI`
       * `JWT_SECRET_KEY`
@@ -62,7 +62,8 @@ IMS/
       * `CLOUD_NAME`, `API_KEY`, `API_SECRET` (for Cloudinary)
 
     *(Exact values should remain private.)*
-
+      ```
+      
 3.  Run the server:
 
     ```bash
