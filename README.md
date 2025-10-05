@@ -34,8 +34,8 @@ IMS/
 │   │   └── productRoutes.js \# Product routes
 │   ├── controllers/         \# Controller logic
 │   ├── middleware/
-│   │   └── uploadimage.js   \# Cloudinary upload config
-│   └── utils/               \# helper files if any
+│        └── uploadimage.js   \# Cloudinary upload config
+│  
 ├── package.json
 
 ````
@@ -48,7 +48,7 @@ IMS/
 
    ```bash
    git clone <repo-url>
-   cd IMS/backend
+   cd Inventory-Management-Backend-API/backend
    npm install
    ````
 
